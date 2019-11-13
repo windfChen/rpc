@@ -13,6 +13,7 @@
         <module>service</module>
         <module>rpc-demo</module>
         <module>demo</module>
+        <module>demo-default</module>
     </modules>
 
 
