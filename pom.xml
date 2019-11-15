@@ -14,6 +14,7 @@
         <module>rpc-demo</module>
         <module>demo</module>
         <module>demo-default</module>
+        <module>rpc-api</module>
     </modules>
 
 
