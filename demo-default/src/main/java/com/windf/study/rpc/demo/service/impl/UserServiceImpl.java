@@ -1,4 +1,4 @@
-package com.windf.stydy.rpc.demo.service.impl;
+package com.windf.study.rpc.demo.service.impl;
 
 import com.windf.study.rpc.demo.User;
 import com.windf.study.rpc.demo.UserService;

@@ -1,4 +1,4 @@
-package com.windf.study.rpc.service;
+package com.windf.study.rpc.server;
 
 import java.util.HashMap;
 import java.util.Map;
